@@ -85,7 +85,7 @@ programa
        
        caso 1
          escreval("-------------------------------------------")
-         escreval("               S O M A R ")
+         escreval("               S O M A                     ")
          escreval("-------------------------------------------")
          escreval("Informe um valor")
          escreva(">> ")
@@ -99,7 +99,7 @@ programa
          escreval("-------------------------------------------")
          escreval("        Pressione Enter Para ")
          escreval("       Realizar um Novo Cálculo")
-         escreval("    ou [ E ] Para Encerrar o Sistema")
+         escreval("    ou [ E ] Para Encerrar a calc")
          escreval("-------------------------------------------")
          escreva(">> ")
          leia(avancar)
@@ -121,7 +121,7 @@ programa
           escreval("-------------------------------------------")
           escreval("        Pressione Enter Para ")
           escreval("       Realizar um Novo Cálculo")
-          escreval("    ou [ E ] Para Encerrar o Sistema")
+          escreval("    ou [ E ] Para Encerrar a calc")
           escreval("-------------------------------------------")
           escreva(">> ")
           leia(avancar)
@@ -143,7 +143,7 @@ programa
           escreval("-------------------------------------------")
           escreval("        Pressione Enter Para ")
           escreval("       Realizar um Novo Cálculo")
-          escreval("    ou [ E ] Para Encerrar o Sistema")
+          escreval("    ou [ E ] Para Encerrar a calc")
           escreval("-------------------------------------------")
           escreva(">> ")
           leia(avancar)
@@ -165,7 +165,7 @@ programa
           escreval("-------------------------------------------")
           escreval("        Pressione Enter Para ")
           escreval("       Realizar um Novo Cálculo")
-          escreval("    ou [ E ] Para Encerrar o Sistema")
+          escreval("    ou [ E ] Para Encerrar a calc")
           escreval("-------------------------------------------")
           escreva(">> ")
           leia(avancar)
@@ -193,7 +193,7 @@ programa
           escreval("-------------------------------------------")
           escreval("        Pressione Enter Para ")
           escreval("       Realizar um Novo Cálculo")
-          escreval("    ou [ E ] Para Encerrar o Sistema")
+          escreval("    ou [ E ] Para Encerrar a calc")
           escreval("-------------------------------------------")
           escreva(">> ")
           leia(avancar)
@@ -215,7 +215,7 @@ programa
           escreval("-------------------------------------------")
           escreval("        Pressione Enter Para ")
           escreval("       Realizar um Novo Cálculo")
-          escreval("    ou [ E ] Para Encerrar o Sistema")
+          escreval("    ou [ E ] Para Encerrar a calc")
           escreval("-------------------------------------------")
           escreva(">> ")
           leia(avancar)
@@ -226,12 +226,11 @@ programa
             limpatela
           escreval("-------------------------------------------")
           escreval("+                                         +")
-          escreval("+          C A L C   S Y S T E M          +")
-          escreval("+            E N C E R R A D O            +")
+          escreval("+                 DESLIGANDO              +")
+          escreval("+                                         +")
           escreval("+                                         +")
           escreval("-------------------------------------------")
-          escreval("       Desenvolvido por: Tiago Grunge!")
-          escreval("-------------------------------------------")
+         
           interrompa
         fimse
       fimrepita
