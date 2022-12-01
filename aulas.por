@@ -49,12 +49,14 @@ programa //estrutura básica do portugol
 //escolha - recebe apenas valores do tipo interio ou caracter
 //caso - recebe apenas valores do tipo interio ou caracter a partir do valor passado no escolha valida-se as opções utilizando o comando caso
 //pare - delimita a expressão 'caso' 
+//caso contrario - será executado se nenhum caso for validado, trata as opções inválidas em uma estrutura escolha/caso
 
 //OPERADORES LÓGICOS
 //e - é utilizado quando precisamos validar duas ou mais expressões lógicas as duas devem ser verdadeiras
 //ou - é utilizado quando precisamos validar duas ou mais expressṍes logicas, apenas uma deve ser verdadeira
 //nao - faz o comando 'se' checar se o valor é falso
-//caso contrario - será executado se nenhum caso for validado, trata as opções inválidas em uma estrutura escolha/caso
+
+
 
 
 
